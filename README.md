@@ -4,7 +4,7 @@
  <a href="https://badge.mediaplus.ma/colorfulwaves/asaadane"><img src="https://badge.mediaplus.ma/colorfulwaves/asaadane" alt="asaadane's 42 stats" /></a>
 </p>
 
-![AymanSDN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanSDN&show_icons=true&theme=transparent)
+![AymanSDN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanSDN&show_icons=true&theme=radical)
 
 
 
