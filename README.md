@@ -55,17 +55,12 @@
 
 ### 📫 Connect with Me
 ![shifuuu31's Stats](https://github-readme-stats.vercel.app/api?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 ![shifuuu31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
----
-
-
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AymanSDN&theme=radical&no-frame=true&row=1&column=7" alt="AymanSDN's GitHub Trophies" />
-</p>
 
----
