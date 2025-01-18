@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aymane Saadane</h1>
-<h3 align="center">A passionate software engineer based in Oujda, Morocco 🚀 | Talent at <a href="https://zone01oujda.ma/" target="_blank">Zone01 Oujda</a></h3>
+
 <!-- <p align="center">
  <a href="https://badge.mediaplus.ma/colorfulwaves/asaadane"><img src="https://badge.mediaplus.ma/colorfulwaves/asaadane" alt="asaadane's 42 stats" /></a>
 </p>-->
