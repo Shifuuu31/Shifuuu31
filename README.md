@@ -54,20 +54,12 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/call_me_shifuuu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_shifuuu" height="30" width="40" />
-  </a>
-</p>
+![shifuuu31's Stats](https://github-readme-stats.vercel.app/api?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![shifuuu31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanSDN&show_icons=true&theme=radical" alt="AymanSDN's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanSDN&theme=radical" alt="AymanSDN's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSDN&layout=compact&theme=radical" alt="AymanSDN's Most Used Languages" />
-</p>
+
 
 ---
 
