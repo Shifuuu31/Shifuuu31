@@ -64,9 +64,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymansdn&show_icons=true&theme=radical" alt="AymanSDN's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymansdn&" alt="AymanSDN's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanSDN&show_icons=true&theme=radical" alt="AymanSDN's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanSDN&theme=radical" alt="AymanSDN's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSDN&layout=compact&theme=radical" alt="AymanSDN's Most Used Languages" />
 </p>
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AymanSDN&theme=radical&no-frame=true&row=1&column=7" alt="AymanSDN's GitHub Trophies" />
+</p>
+
+---
