@@ -1,66 +1,107 @@
+<h1 align="center">Hi 👋, I'm Ayman Saadane</h1>
+<h3 align="center">
+Junior Full-Stack Developer • Backend-Oriented • Systems Programming Enthusiast  
+<br/>
+Based in Morocco 🇲🇦 — Open to Remote Opportunities
+</h3>
 
-<!-- <p align="center">
- <a href="https://badge.mediaplus.ma/colorfulwaves/asaadane"><img src="https://badge.mediaplus.ma/colorfulwaves/asaadane" alt="asaadane's 42 stats" /></a>
-</p>-->
-
-<!--![AymanSDN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanSDN&show_icons=true&theme=radical) 
-
-
-
-<img align="center" alt="Coding" width="1000" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aymansdn&label=Profile%20views&color=0e75b6&style=flat" alt="aymansdn" /> </p>-->
-<h1 align="center">Hi 👋, I'm Aymane Saadane</h1>
-<h3 align="center">A passionate software engineer based in Oujda, Morocco 🚀 | Talent at <a href="https://zone01oujda.ma/" target="_blank">Zone01 Oujda</a></h3>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on [Forum Project](https://github.com/01-edu/public/tree/master/subjects/forum)
-- 🌱 I’m currently learning **JavaScript, Full-Stack technologies, and diving deeper into C and Shell**
-- 🚀 Proficient in **Native Go (Golang)** – I’ve built numerous projects and tools with it!
-- ⏳ Excitedly waiting for the **Rust phase** to begin!
-- 🤝 I’m currently exploring **APIs, databases, and advanced software engineering concepts**
-- 👨‍💻 **Portfolio:** Currently under construction 🚧 (Stay tuned!)
-- 💬 Ask me about **Software Engineering, C, Go, APIs, databases, or anything**
-
----
-
-### 🚀 Projects
-- **CLI App for Learning Golang**: A command-line application to help people learn and practice Golang. Check out the initial version on [GitHub](https://github.com/Shifuuu31/zone01_exam_simulator).  
-  **Vision**: I aim to make this project open source and collaborate with a passionate team to create something magnificent. My goal is to help more people discover the world of programming and make learning Go accessible and enjoyable. Sharing is caring, and together we can achieve something extraordinary! 🚀
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shifuuu31&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-![shifuuu31's Stats](https://github-readme-stats.vercel.app/api?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## 👨‍💻 About Me
+I’m a **Junior Full-Stack Developer** with a strong focus on the **backend and systems side of software engineering**.
+
+I enjoy building software from scratch, understanding how things work internally, and writing code that is **clean, explicit, and maintainable**.
+
+- 🧠 ~2 years of hands-on experience in real-world projects  
+- ⚙️ Backend-first mindset: APIs, databases, real-time systems  
+- 🚀 Primary language: **Go (Golang)**  
+- 🦀 Using **Rust** for low-level and performance-oriented projects  
+- 🐧 Daily Linux user, comfortable with shell scripting and CLI tools  
+- 🌱 Actively improving full-stack skills (frontend + backend)
 
 ---
 
-![shifuuu31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifuuu31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 🚀 Selected Projects
 
+### 🟢 Facebook-Like Social Network (Go, SQLite, Vue)
+- Built a full-featured backend: users, sessions, posts, comments, followers, groups, events, notifications
+- Implemented real-time private & group chat using **WebSockets**
+- Focused on clean architecture, permissions, and ownership checks
+
+### 🟢 Real-Time Forum Application
+- Single-page application using **Go, SQLite, and vanilla JavaScript**
+- Authentication, posts, comments, private messaging, online users
+- Emphasis on correctness, performance, and maintainability
+
+### 🟢 Systems & CLI Projects
+- **Minimal Bash clone (Rust)**: command parsing, execution flow, and shell behavior
+- **Unix command re-implementations** (`ls`, `wget`) in Go & Rust
+- Real-time chat experiments using WebSockets
 
 ---
 
+## 🛠️ Languages & Tools
 
+### Programming Languages
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=IrYuykLoqOH6&format=png&color=0BBEDD" width="40"/>
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="40"/>
+</p>
+
+### Backend, APIs & Real-Time
+- REST APIs  
+- Authentication & session management  
+- WebSockets & real-time systems  
+- Concurrency (goroutines, channels, sync basics)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" width="40"/>
+  <img src="https://websockets.readthedocs.io/en/stable/_static/websockets.svg" width="60"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+ 
+</p>
+
+### DevOps, Systems & Tooling
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+</p>
+
+- Linux & shell scripting  
+- Docker (basic)  
+- Git & version control  
+- CLI tooling & automation  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifuuu31&theme=vue-dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 📫 Contact & Opportunities
+- 💼 Open to **internships and junior full-stack / backend roles**
+- 🌍 Remote-friendly
+- 💬 Happy to discuss full-stack development, backend systems, Go, or Rust
+
+---
+
+> *“Learn deeply. Build simply. Improve continuously.”*
