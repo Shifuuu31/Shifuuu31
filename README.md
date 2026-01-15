@@ -91,12 +91,6 @@ I enjoy building software from scratch, understanding how things work internally
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifuuu31&theme=vue-dark&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact & Opportunities
 - 💼 Open to **internships and junior full-stack / backend roles**
 - 🌍 Remote-friendly
