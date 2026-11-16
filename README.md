@@ -2,189 +2,218 @@
 
 # Aymane Saadane
 
-### Full-Stack Developer • Backend-Oriented • Systems Programming Enthusiast
-**Mohammedia, Morocco • Open to Remote & Relocation Opportunities**
+### **Full-Stack Developer • Backend-Oriented • Systems Programming Enthusiast**
+📍 **Mohammedia, Morocco** &nbsp;|&nbsp; 🌍 **Open to Remote & Relocation (Internships / Junior Roles)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asaadane.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://asaadane.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Saadane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaadane)
-[![Email](https://img.shields.io/badge/Email-asaadane%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:asaadane@proton.me)
-[![Primary Language](https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#technical-skills)
-[![Profile Views](https://komarev.com/ghpvc/?username=shifuuu31&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/shifuuu31)
+<br/>
+
+<p align="center">
+  <a href="https://asaadane.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-asaadane.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/asaadane">
+    <img src="https://img.shields.io/badge/LinkedIn-Aymane_Saadane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:asaadane@proton.me">
+    <img src="https://img.shields.io/badge/Email-asaadane%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/shifuuu31">
+    <img src="https://komarev.com/ghpvc/?username=shifuuu31&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary_Language-Go_%28Golang%29-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Primary Language Go" />
+  <img src="https://img.shields.io/badge/Systems-Rust_%26_C-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Systems Rust & C" />
+  <img src="https://img.shields.io/badge/Environment-Linux_%2F_Unix-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux / Unix" />
+  <img src="https://img.shields.io/badge/Education-1337_%2842_Network%29_%26_Zone01-111827?style=flat-square" alt="1337 & Zone01" />
+</p>
 
 </div>
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** with a strong **backend focus** and an active interest in **systems-level programming**. My technical foundation is built on intensive, project-based engineering curricula: foundational C and Unix systems at **1337 Coding School (42 Network)**, followed by practical full-stack and real-time application development at **Zone01 Oujda (01Talent)**.
+I am a **Junior Full-Stack Developer** with a strong **backend focus** and a genuine interest in **systems programming**. My engineering foundation combines low-level C and Unix systems training at **1337 Coding School (42 Network)** with full-stack, real-time application engineering at **Zone01 Oujda (01Talent)**.
 
-My day-to-day development centers on **Go**, which I use to design modular RESTful APIs, manage concurrent workloads, build real-time communication channels with WebSockets, and model relational databases. In parallel, I study low-level systems programming in **Rust and C**, exploring Unix internals, process lifecycles (`fork`/`exec`), inter-process communication (IPC), and thread synchronization.
+My primary language is **Go**, which I use to architect modular RESTful APIs, build real-time communication hubs over WebSockets & raw TCP sockets, manage concurrent workloads with goroutines and channels, and design relational database schemas. Alongside web backends, I work with **Rust and C** to explore operating system internals, process lifecycles (`fork`/`execve`), inter-process communication (IPC), and thread synchronization.
 
-### How I Work
-- **Backend-first approach**: I prioritize data integrity, explicit boundary definitions, clean domain modeling, and session security before writing client layers.
-- **Understanding the internals**: Rather than relying purely on high-level abstractions, I seek to understand how the runtime, operating system, and network protocols behave under the hood.
-- **Clean and maintainable code**: I value explicit error handling, modular organization (handlers, services, repositories), and readable architecture over excessive dependencies or clever shortcuts.
+```go
+package main
 
----
+type Engineer struct {
+    Name         string
+    Role         string
+    PrimaryStack []string
+    SystemsStack []string
+    Architecture []string
+    Interests    []string
+}
 
-## 🛠️ Technical Skills
-
-### Core & Systems Languages
-<p align="left">
-  <a href="https://go.dev/" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="36" height="36"/></a>
-</p>
-
-- **Go (Primary Language)** — RESTful APIs (`net/http`, routing), real-time WebSockets, Goroutines & Channels, clean layered architecture.
-- **Rust** — Systems programming, process management, POSIX signal handling, memory safety without GC.
-- **C** — Low-level memory management (`malloc`/`free`), pointer arithmetic, data structures, Unix system calls (`fork`, `pipe`, `dup2`, `execve`).
-- **Java** — Object-oriented architecture, multithreading basics, backend development with Spring Boot (in progress).
-- **JavaScript (ES6+)** — Asynchronous programming, DOM manipulation, WebSocket client integration, SPA state management.
-- **SQL** — Schema design, relational normalization, indexing, foreign keys, transactions.
-
-### Backend, Concurrency & Networking
-- **API Development**: RESTful endpoint design, route multiplexing, structured JSON payloads, status code discipline.
-- **Real-Time Systems**: Bi-directional communication with WebSockets, connection lifecycles, user presence detection, message broadcasting.
-- **Security & Authentication**: Session-based authentication, cryptographically secure cookies, bcrypt password hashing, role-based access control (RBAC).
-- **Concurrency & Multithreading**: Goroutines, channels, and wait groups in Go; POSIX threads (`pthread`), mutexes, and race condition prevention in C.
-- **Networking & Protocols**: HTTP/1.1 fundamentals, WebSockets, TCP/UDP fundamentals, basic FTP/SSH configuration.
-
-### Systems Programming & Linux Administration
-<p align="left">
-  <a href="https://www.kernel.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/></a>
-</p>
-
-- **Unix / Linux Environment**: Daily Linux environment, CLI workflows, Bash shell scripting, task automation.
-- **Process Management**: Process hierarchy, fork/execve lifecycle, exit status propagation, POSIX signal handling (`SIGINT`, `SIGQUIT`, `SIGTERM`).
-- **Inter-Process Communication (IPC)**: Anonymous Unix pipes (`pipe()`), standard stream redirection (`dup2()`), file descriptor lifecycle.
-- **Server Hardening**: Debian server configuration, SSH key authentication & port customization, UFW firewall policy, sudoers privilege scoping, automated cron monitoring.
-
-### Databases & Storage
-<p align="left">
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://mariadb.org/" title="MariaDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/></a>
-</p>
-
-- **Relational Databases**: PostgreSQL, SQLite3, MariaDB — schema modeling, query optimization, foreign key constraints, data integrity.
-- **Document Store**: MongoDB — document modeling, basic aggregation, indexing.
-
-### Frontend Development
-<p align="left">
-  <a href="https://vuejs.org/" title="Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36"/></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/></a>
-</p>
-
-- **Technologies**: HTML5, CSS3, Vanilla JavaScript (ES6+), Vue.js, React (basics), Next.js (basics).
-- **Practices**: Frameworkless SPAs, reactive components, clean UI/UX state synchronization, REST & WebSocket client integration.
+func NewProfile() Engineer {
+    return Engineer{
+        Name:         "Aymane Saadane",
+        Role:         "Backend-Oriented Full-Stack Developer",
+        PrimaryStack: []string{"Go (1.23+)", "SQLite3", "PostgreSQL", "Vue.js 3", "Vanilla JS (ES6+)"},
+        SystemsStack: []string{"Rust (Tokio, Clap)", "C (POSIX, pthreads)", "Linux / Debian", "Bash"},
+        Architecture: []string{"Clean Layered Architecture", "RESTful APIs", "WebSockets & TCP", "Docker Compose"},
+        Interests:    []string{"Concurrency", "Unix Internals & IPC", "Real-Time Systems", "Database Design"},
+    }
+}
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills & Tooling
 
-### 1. Facebook-like Social Network
-> **Full-stack real-time social networking platform engineered with a clean architecture Go backend and an interactive SPA frontend.**
+<div align="center">
 
-- **Tech Stack:** `Go` • `SQLite` • `Vue.js` • `WebSockets` • `Docker`
-- **Context:** Zone01 Oujda (01Talent) Full-Stack Curriculum
-- **Technical Highlights:**
-  - **Clean Architecture Backend:** Structured with explicit separation of concerns (HTTP handlers, domain services, and SQLite repository layers), ensuring decoupled business rules and testability.
-  - **Real-Time WebSocket Hub:** Built a full-duplex communication hub supporting 1-to-1 private chat, group discussions, live user presence detection (online/offline tracking), and real-time notification dispatch.
-  - **Social Domain & Relational Modeling:** Implemented complete social graph logic including user profiles, follower relationships, posts, comments, groups, events, and invitations with transactional consistency in SQLite.
-  - **Granular Authorization & Security:** Enforced strict privacy rules (public vs. private profiles), group membership permissions, ownership checks across all endpoints, and session-based authentication with bcrypt password hashing.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=dark" alt="Tech Stack Icons" />
+</picture>
 
----
+</div>
 
-### 2. Real-Time Forum Application
-> **Frameworkless single-page discussion platform built with backend-driven logic, efficient relational queries, and live WebSocket interactions.**
+<br/>
 
-- **Tech Stack:** `Go` • `SQLite` • `Vanilla JavaScript (ES6+)` • `WebSockets`
-- **Context:** Zone01 Oujda (01Talent) Curriculum
-- **Technical Highlights:**
-  - **Frameworkless SPA Architecture:** Implemented a single-page frontend using modern Vanilla JavaScript, interacting with a modular Go REST API and real-time WebSocket connection without external client-side frameworks.
-  - **Live Messaging & Presence:** Real-time messaging layer handling direct user-to-user private chat and broadcast updates for currently active users.
-  - **Relational Data Management:** Designed SQLite schemas for categorized threads, nested comments, and user vote tracking (likes/dislikes) with optimized query filtering.
-  - **Session Security:** Custom cookie-based authentication with session validation middleware, UUID session tokens, and endpoint authorization checks.
-
----
-
-### 3. 0-Shell (Minimal Unix Shell Clone)
-> **Lightweight Unix command-line interpreter implemented in Rust, exploring process lifecycles, pipelines, and low-level POSIX system calls.**
-
-- **Tech Stack:** `Rust` • `POSIX APIs` • `Linux / Unix`
-- **Context:** Systems Programming Project
-- **Technical Highlights:**
-  - **Input Parsing & Command AST:** Lexical analysis and parsing of user input into executable command structures, handling arguments, quotes, whitespace, and environment variable expansion (`$VAR`).
-  - **Process Lifecycle Management:** Spawns and synchronizes child processes using Unix system calls (`fork`, `execve`, `waitpid`), managing process isolation and exit status codes.
-  - **Pipelines & Stream Redirection:** Implemented multi-stage command piping (`|`) and file I/O redirection (`<`, `>`, `>>`) by manipulating file descriptors.
-  - **Signal Handling & Builtins:** Graceful handling of POSIX signals (`SIGINT`, `SIGQUIT`, `SIGTSTP`) to prevent shell termination during child execution; implemented core builtins (`cd`, `env`, `exit`) directly in the parent process.
-
----
-
-### 4. Pipex (Unix Multi-Pipeline & IPC Engine)
-> **Low-level C program reproducing the shell pipeline mechanism, demonstrating inter-process communication and file descriptor redirection.**
-
-- **Tech Stack:** `C` • `Unix IPC` • `POSIX APIs` • `Make`
-- **Context:** 1337 Coding School (42 Network) • **[Repository →](https://github.com/shifuuu31/Pipex_42-cursus)**
-- **Technical Highlights:**
-  - **Inter-Process Communication:** Creates and manages anonymous Unix pipes (`pipe()`), establishing unidirectional data channels between concurrently running processes.
-  - **File Descriptor Redirection:** Duplicates and maps file descriptors using `dup2()`, seamlessly redirecting standard input and output streams to file handles and pipe ends.
-  - **Binary Resolution & Execution:** Parses the `PATH` environment variable, locates binary paths using `access()`, and delegates execution via `execve()`.
-  - **Memory & Resource Discipline:** Zero memory leaks (verified with Valgrind), robust file descriptor closure preventing descriptor leaks, and rigorous error propagation across all system calls.
-
----
-
-### Additional Systems & 42 Network Repositories
-
-| Repository | Focus & Technologies | Key Engineering Takeaways |
+| Category | Technologies & Visual Badges | Applied Engineering Capabilities |
 | :--- | :--- | :--- |
-| **[Born2beRoot](https://github.com/shifuuu31/Born2beroot_42-cursus)** | Debian, Bash, UFW, SSH, MariaDB | Hardened virtualized server: LVM partitioning, non-standard SSH, UFW rules, sudo audit logging, and automated cron monitoring daemon. |
-| **[So_Long](https://github.com/shifuuu31/So_Long_42-cursus)** | C, MinilibX, X11, Graphics | 2D tile-based graphical engine: window management, sprite rendering, event loop hooks, BFS flood-fill map path validation, and memory management. |
-| **[Push_Swap](https://github.com/shifuuu31/Push_swap_42-cursus)** | C, Algorithms, Complexity | Stack-based integer sorting engine: optimized sorting instructions between two stacks (`stack_a`, `stack_b`) with minimal operation count. |
-| **[Libft](https://github.com/shifuuu31/Libft_42-cursus)** | C, Data Structures, Memory | Reimplementation of fundamental C standard library functions, string manipulation, linked list utilities, and dynamic memory tracking. |
+| **Core Languages** | ![Go](https://img.shields.io/badge/Go_%28Primary%29-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | • **Go**: HTTP servers (`net/http`), `gorilla/websocket`, goroutines, channels, `golang-migrate`, Swagger/OpenAPI.<br/>• **Rust**: Process control, async I/O (`tokio`), CLI parsing (`clap`), memory safety without GC.<br/>• **C**: Manual memory lifecycle (`malloc`/`free`), pointers, POSIX threads (`pthread`), system calls. |
+| **Backend & Real-Time** | ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Auth](https://img.shields.io/badge/Session_%26_Auth-4B5563?style=flat-square&logo=letsencrypt&logoColor=white) | • **Architecture**: Clean layered design separating HTTP handlers, domain services, and data repositories.<br/>• **Real-Time**: Bi-directional WebSocket hubs, 1-to-1 & group chat, online presence detection, raw TCP chat.<br/>• **Security**: Cookie-based sessions, UUID tokens, `bcrypt` hashing (`golang.org/x/crypto`), RBAC & privacy rules. |
+| **Databases & Storage** | ![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | • **Relational Design**: Normalized schemas, versioned SQL migrations (`golang-migrate`), foreign key constraints, indexing, and atomic transactions.<br/>• **NoSQL**: Document modeling and collection queries with MongoDB. |
+| **Systems & Linux** | ![Linux](https://img.shields.io/badge/Linux_%2F_Debian-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX_IPC-24292E?style=flat-square&logo=gnu&logoColor=white) ![Hardening](https://img.shields.io/badge/SSH_%26_UFW-D70A53?style=flat-square&logo=debian&logoColor=white) | • **Unix Internals**: Process spawning (`fork`, `execve`, `waitpid`), anonymous pipes (`pipe`), FD redirection (`dup2`), POSIX signals.<br/>• **SysAdmin**: Debian server hardening, LVM partitioning, SSH security, UFW firewall, `cron` telemetry scripts. |
+| **Frontend & Web** | ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React_%28Basics%29-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js_%28Basics%29-000000?style=flat-square&logo=nextdotjs&logoColor=white) | • **SPA Engineering**: Vue 3 (`vue-router`, `vuex`) and frameworkless Vanilla JS SPAs with dynamic DOM rendering.<br/>• **Integration**: WebSocket client state sync, GraphQL query dashboards, responsive layouts. |
+| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white) ![Make](https://img.shields.io/badge/GNU_Make-6D00CC?style=flat-square&logo=gnu&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | • **Containerization**: Multi-container `Dockerfile` & `docker-compose.yml` orchestration for backend/frontend services.<br/>• **Workflows**: Git branching, Makefile build automation, Valgrind memory auditing, CI fundamentals. |
 
 ---
 
-### 🔄 Active & In-Progress Explorations
+## 🚀 Featured Engineering Projects
 
-- **01Blog** (`Java Spring Boot`, `Angular`): Full-stack blogging and content platform exploring Spring Security, RESTful service layers, JWT authentication, and responsive Angular UI.
-- **Local Server** (`Java`): Lightweight HTTP/1.1 server implementation focusing on socket lifecycle management, non-blocking I/O concepts, routing table dispatch, and multipart request parsing.
+### 1. 🌐 Facebook-like Social Network
+<p>
+  <img src="https://img.shields.io/badge/Go_1.23-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Vue.js_3_%2B_Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Gorilla_WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Status-Completed_%28Zone01%29-10B981?style=flat-square" alt="Completed" />
+</p>
+
+> **Full-stack social networking platform with real-time messaging, group collaboration, and a clean-architecture Go backend containerized with Docker Compose.**
+
+- **Clean Backend Architecture (`pkg/handlers`, `pkg/models`, `pkg/db`, `pkg/wsServer`):** Modular Go 1.23 server utilizing `golang-migrate/v4` for versioned SQLite schema migrations, `satori/go.uuid` for session tokens, and `golang.org/x/crypto` for bcrypt password hashing.
+- **Real-Time WebSocket Engine (`gorilla/websocket`):** Full-duplex messaging hub supporting 1-to-1 private chat, multi-user group channels, live online/offline presence tracking, and instant real-time notification broadcasting.
+- **Complete Social Graph & Privacy Controls:** Supports public/private user profiles, follow request workflows, posts with visibility tiers (public, followers, custom selection), comments, image uploads, groups, and group event RSVP scheduling.
+- **Containerized Deployment:** Orchestrated via `docker-compose.yml` isolating the Go API/WebSocket server (`:8001`) and the Vue 3 SPA (`:8080`).
+
+---
+
+### 2. 💬 Real-Time Forum & EchoHub Community
+<p>
+  <img src="https://img.shields.io/badge/Go_1.23-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Vanilla_JS_%28SPA%29-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Status-Completed_%28Zone01%29-10B981?style=flat-square" alt="Completed" />
+</p>
+
+> **Single-page community discussion platforms built with Go, SQLite, and Vanilla JavaScript, featuring real-time private chat, live user presence, and OpenAPI documentation.**
+
+- **Frameworkless SPA Architecture:** Engineered a dynamic single-page frontend using pure Vanilla JavaScript (`app.js`), managing client-side view routing, asynchronous `fetch` requests, and live DOM updates without frontend framework overhead.
+- **WebSocket Hub (`ws/hub.go`):** Dedicated connection hub tracking active user sessions, broadcasting real-time online status lists, and routing instant private messages with conversation history pagination.
+- **Backend & Database Engineering:** Structured Go backend (`cmd/`, `internal/database`, `internal/models`) with normalized SQLite tables for multi-category posts, nested comments, and like/dislike counters, documented with `swaggo/http-swagger`.
+
+---
+
+### 3. 🐚 0-Shell & Unix Systems Tooling (`0-Shell`, `rusty_wget`, `my-ls`, `net-cat`)
+<p>
+  <img src="https://img.shields.io/badge/Rust_%282024_Edition%29-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Tokio_%26_Clap-000000?style=flat-square&logo=rust&logoColor=white" alt="Tokio" />
+  <img src="https://img.shields.io/badge/POSIX_%26_TCP_Sockets-FCC624?style=flat-square&logo=linux&logoColor=black" alt="POSIX" />
+  <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" alt="Completed" />
+</p>
+
+> **Suite of custom Unix command-line utilities, shell interpreters, and raw TCP servers built from scratch in Rust and Go.**
+
+- **`0-Shell` (Minimal Bash Clone in Rust):** Custom Unix shell supporting lexical command parsing, environment variable expansion (`$VAR`), process spawning (`fork`/`execve`/`waitpid`), multi-stage pipelines (`|`), file I/O redirection (`<`, `>`, `>>`), POSIX signal handling (`SIGINT`, `SIGQUIT`), and core builtins (`cd`, `env`, `exit`).
+- **`rusty_wget` (Async Wget Clone in Rust):** Reimplementation of GNU `wget` using `tokio` async runtime and `clap` derive macros, supporting HTTP/HTTPS file downloads, progress indicators, rate limiting, and recursive offline site mirroring.
+- **`net-cat` (TCP NetCat Chat in Go):** Concurrent TCP chat server (`TCPChat`) recreating `nc` functionality over raw TCP sockets (`net.Listen`), supporting up to 10 simultaneous clients, mutex-guarded room broadcasting, and timestamped connection logging.
+- **`my-ls` (Unix `ls` Clone in Go):** Low-level filesystem inspector recreating `ls` flags (`-l`, `-R`, `-a`, `-r`, `-t`) with custom sorting, permission bit formatting, symlink resolution, and recursive directory traversal without external libraries.
+
+---
+
+### 4. ⚙️ Pipex — Unix Multi-Pipeline & IPC Engine
+<p>
+  <img src="https://img.shields.io/badge/C_%28C99%29-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Unix_IPC-24292E?style=flat-square&logo=linux&logoColor=white" alt="Unix IPC" />
+  <img src="https://img.shields.io/badge/GNU_Make-6D00CC?style=flat-square&logo=gnu&logoColor=white" alt="Make" />
+  <a href="https://github.com/shifuuu31/Pipex_42-cursus">
+    <img src="https://img.shields.io/badge/Public_Repository-Pipex__42--cursus-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
+
+> **Systems-level C implementation reproducing POSIX shell pipeline execution (`< infile cmd1 | cmd2 > outfile`) via inter-process communication.**
+
+- **Inter-Process Communication (IPC):** Creates and coordinates unidirectional anonymous Unix pipes (`pipe()`) between concurrent child processes spawned via `fork()`.
+- **Descriptor Redirection & Execution:** Maps standard input/output streams using `dup2()`, resolves binary paths dynamically from `envp` (`PATH`), validates execution permissions with `access()`, and replaces process images via `execve()`.
+- **Strict Resource Hygiene:** Ensures deterministic closure of unused pipe descriptors across parent and child processes, preventing deadlocks, zombie processes (`waitpid`), and memory leaks (verified with Valgrind).
+- 🔗 **Source Code:** [**`github.com/shifuuu31/Pipex_42-cursus`**](https://github.com/shifuuu31/Pipex_42-cursus)
+
+---
+
+## 📂 Public 42 Network & Systems Repositories
+
+All 42 Network curriculum repositories below are **publicly accessible** on my GitHub profile with detailed technical documentation:
+
+| Repository | Language & Stack | Engineering Implementation & Key Concepts |
+| :--- | :--- | :--- |
+| 📦 [**`Pipex_42-cursus`**](https://github.com/shifuuu31/Pipex_42-cursus) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `POSIX IPC` | Unix process pipeline simulator using `pipe()`, `fork()`, `dup2()`, `waitpid()`, and `execve()`. |
+| 🛡️ [**`Born2beroot_42-cursus`**](https://github.com/shifuuu31/Born2beroot_42-cursus) | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | Hardened Linux server: encrypted LVM partitions, SSH port/root hardening, UFW firewall, strict `sudo` policies, PAM password rules, and a custom `cron` system telemetry script (`monitoring.sh`). |
+| 🎮 [**`So_Long_42-cursus`**](https://github.com/shifuuu31/So_Long_42-cursus) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `MinilibX (X11)` | 2D top-down tile game engine in C featuring `.ber` map parsing, **BFS flood-fill path validation**, X11 window rendering, keyboard event hooks, and leak-free texture teardown. |
+| 🔢 [**`Push_swap_42-cursus`**](https://github.com/shifuuu31/Push_swap_42-cursus) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `Algorithms` | Dual-stack (`stack_a`, `stack_b`) integer sorting engine optimizing push, swap, and rotate instructions to sort 100 and 500 random integers within minimal operation thresholds. |
+| 🧵 **`Philosophers_42-cursus`** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `pthreads` | Dining Philosophers concurrency simulator solving resource contention, race conditions, and deadlocks using POSIX threads (`pthread_create`) and mutex locks (`pthread_mutex_lock`). |
+| 📚 [**`Libft_42-cursus`**](https://github.com/shifuuu31/Libft_42-cursus) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `Data Structures` | Custom reimplementation of standard `libc` memory, string, and linked-list manipulation functions, alongside [**`Ft_printf`**](https://github.com/shifuuu31/Ft_printf_42-cursus) (variadic formatting) and [**`Get_next_line`**](https://github.com/shifuuu31/Get_next_line_42-cursus) (buffered FD line reader). |
+
+---
+
+## 🔄 Active & In-Progress Explorations
+
+To keep project status transparent, the following repositories are currently **under active development**:
+
+- 🏗️ **`01Blog`** (`Java`, `Spring Boot`, `Angular`) — Full-stack blogging and content platform exploring Spring Security, JWT authentication, RESTful service layers, user follows, notifications, and content moderation.
+- 🌐 **`Local Server`** (`Java`) — Custom HTTP/1.1 server implementation exploring non-blocking I/O (`java.nio`), raw socket lifecycle management, custom routing tables, session handling, and multipart file uploads.
+- 🚦 **Traffic Simulation Systems (`road_intersection` in Rust & `JrafficV2` in Java 17)** — Real-time cross-intersection traffic simulators built with Rust (`macroquad`) and JavaFX, modeling lane queues, traffic light state machines, and vehicle collision avoidance.
 
 ---
 
 ## 🔬 Systems Programming & Engineering Foundations
 
-Beyond web development, my engineering perspective is shaped by hands-on systems-level problem solving:
+What differentiates my profile as a full-stack developer is a ground-up understanding of systems behavior:
 
-- **Memory Management in C**: Manual dynamic allocation (`malloc`, `free`), pointer arithmetic, preventing buffer overflows, and diagnosing memory leaks using Valgrind.
-- **Concurrency & Synchronization**: Understanding race conditions, mutex locking primitives, deadlocks, and thread lifecycle management (implemented in the 42 *Philosophers* concurrency project).
-- **Unix Process Architecture**: Managing parent-child process relationships, process replacement via `execve`, exit code handling, and asynchronous signal trapping.
-- **Systems Administration & Security**: Operating within Linux environments as a primary OS, managing systemd services, automated cron jobs, SSH hardening, and network port management.
+- **Memory & Resource Discipline:** Writing C code without garbage collection taught me explicit ownership, pointer arithmetic, buffer boundary discipline, and Valgrind memory profiling—habits I carry directly into Go and Rust.
+- **Concurrency & Synchronization:** Practical experience preventing race conditions and deadlocks across both low-level POSIX threads/mutexes in C (`Philosophers`) and high-level Communicating Sequential Processes (CSP) via Goroutines and Channels in Go.
+- **Operating System Internals:** Hands-on implementation of command parsers, AST execution pipelines, file descriptor tables, POSIX signal handlers, and process trees (`0-Shell`, `Minishell`, `Pipex`).
+- **Linux Administration & Containerization:** Daily Linux user comfortable configuring Debian servers, writing Bash automation scripts, hardening SSH/UFW network layers, and orchestrating services with Docker Compose.
 
 ---
 
-## 📬 Contact & Portfolio
+## 📫 Contact & Links
 
-I am actively looking for **Internships and Junior Software Engineering roles (Backend / Full-Stack)**, with open availability for remote and on-site opportunities.
+I am actively seeking **Internships and Junior Software Engineering roles (Backend / Full-Stack)** — open to **Remote** and **Relocation** opportunities.
 
 <div align="center">
 
-| Channel | Link |
-| :--- | :--- |
-| **🌐 Portfolio** | [asaadane.netlify.app](https://asaadane.netlify.app/) |
-| **💻 GitHub** | [github.com/shifuuu31](https://github.com/shifuuu31) |
-| **👔 LinkedIn** | [linkedin.com/in/asaadane](https://linkedin.com/in/asaadane) |
-| **📧 Email** | [asaadane@proton.me](mailto:asaadane@proton.me) |
+| Platform | Direct Link | Purpose |
+| :--- | :--- | :--- |
+| 🌐 **Personal Portfolio** | [**asaadane.netlify.app**](https://asaadane.netlify.app/) | Interactive project showcase, education timeline & downloadable CV (EN / FR) |
+| 💼 **LinkedIn** | [**linkedin.com/in/asaadane**](https://linkedin.com/in/asaadane) | Professional network, background & direct messaging |
+| 💻 **GitHub** | [**github.com/shifuuu31**](https://github.com/shifuuu31) | Public source code, C/Unix systems repos & commit history |
+| 📧 **Email** | [**asaadane@proton.me**](mailto:asaadane@proton.me) | Direct inquiries regarding internships, junior roles & technical collaboration |
 
 <br/>
 
