@@ -1,15 +1,20 @@
 <div align="center">
 
-# Aymane Saadane
+# 👋 Hi, I'm Aymane Saadane
 
-### **Full-Stack Developer • Backend-Oriented • Systems Programming Enthusiast**
-📍 **Mohammedia, Morocco** &nbsp;|&nbsp; 🌍 **Open to Remote & Relocation (Internships / Junior Roles)**
+<!-- Animated Typing SVG -->
+<a href="https://asaadane.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=780&lines=Backend-Oriented+Full-Stack+Developer;Go+(Golang)+%E2%80%A2+Rust+%E2%80%A2+C+%E2%80%A2+Systems+Programming;RESTful+APIs+%E2%80%A2+WebSockets+%E2%80%A2+Unix+IPC+%26+Concurrency;1337+(42+Network)+%26+Zone01+Oujda+Software+Engineer" alt="Typing SVG" />
+</a>
+
+📍 **Mohammedia, Morocco** &nbsp;|&nbsp; 🌍 **Open to Remote & Relocation (Internships / Junior Software Engineer Roles)**
 
 <br/>
 
+<!-- Primary Action Buttons -->
 <p align="center">
   <a href="https://asaadane.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-asaadane.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-asaadane.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/asaadane">
     <img src="https://img.shields.io/badge/LinkedIn-Aymane_Saadane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,16 +22,21 @@
   <a href="mailto:asaadane@proton.me">
     <img src="https://img.shields.io/badge/Email-asaadane%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>&nbsp;
+  <a href="https://asaadane.netlify.app/resume/Aymane_Saadane_Resume_ENG.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_CV_(EN)-10B981?style=for-the-badge" alt="Resume EN" />
+  </a>&nbsp;
   <a href="https://github.com/shifuuu31">
     <img src="https://komarev.com/ghpvc/?username=shifuuu31&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
+<!-- Quick Identity Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/Primary_Language-Go_%28Golang%29-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Primary Language Go" />
-  <img src="https://img.shields.io/badge/Systems-Rust_%26_C-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Systems Rust & C" />
-  <img src="https://img.shields.io/badge/Environment-Linux_%2F_Unix-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux / Unix" />
-  <img src="https://img.shields.io/badge/Education-1337_%2842_Network%29_%26_Zone01-111827?style=flat-square" alt="1337 & Zone01" />
+  <img src="https://img.shields.io/badge/Systems_Core-Rust_%26_C-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Systems Rust & C" />
+  <img src="https://img.shields.io/badge/Daily_OS-Linux_%2F_Debian-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux / Debian" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Layered_%26_Real--Time-6366F1?style=flat-square" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Pedagogy-1337_%2842_Network%29_%26_Zone01-111827?style=flat-square" alt="1337 & Zone01" />
 </p>
 
 </div>
@@ -35,58 +45,195 @@
 
 ## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** with a strong **backend focus** and a genuine interest in **systems programming**. My engineering foundation combines low-level C and Unix systems training at **1337 Coding School (42 Network)** with full-stack, real-time application engineering at **Zone01 Oujda (01Talent)**.
+I am a **Junior Full-Stack Developer** with a strong **backend orientation** and a deep interest in **systems programming**. My foundation was forged through two rigorous, project-based peer-learning institutions: low-level C, algorithms, and Unix kernel interfaces at **1337 Coding School (42 Network)**, followed by full-stack and real-time software architecture at **Zone01 Oujda (01Talent)**.
 
-My primary language is **Go**, which I use to architect modular RESTful APIs, build real-time communication hubs over WebSockets & raw TCP sockets, manage concurrent workloads with goroutines and channels, and design relational database schemas. Alongside web backends, I work with **Rust and C** to explore operating system internals, process lifecycles (`fork`/`execve`), inter-process communication (IPC), and thread synchronization.
+My primary language is **Go**, which I use to build clean, maintainable RESTful APIs, full-duplex WebSocket servers, raw TCP network services, and relational database layers. In parallel, I write **Rust and C** to explore operating system internals, process management (`fork`/`execve`), inter-process communication (IPC), and thread synchronization.
 
 ```go
 package main
 
-type Engineer struct {
+type DeveloperProfile struct {
     Name         string
     Role         string
+    Location     string
     PrimaryStack []string
     SystemsStack []string
-    Architecture []string
-    Interests    []string
+    CoreFocus    []string
 }
 
-func NewProfile() Engineer {
-    return Engineer{
-        Name:         "Aymane Saadane",
+func Aymane() DeveloperProfile {
+    return DeveloperProfile{
+        Name:         "Aymane Saadane (@shifuuu31)",
         Role:         "Backend-Oriented Full-Stack Developer",
-        PrimaryStack: []string{"Go (1.23+)", "SQLite3", "PostgreSQL", "Vue.js 3", "Vanilla JS (ES6+)"},
-        SystemsStack: []string{"Rust (Tokio, Clap)", "C (POSIX, pthreads)", "Linux / Debian", "Bash"},
-        Architecture: []string{"Clean Layered Architecture", "RESTful APIs", "WebSockets & TCP", "Docker Compose"},
-        Interests:    []string{"Concurrency", "Unix Internals & IPC", "Real-Time Systems", "Database Design"},
+        Location:     "Morocco (Open to Remote & Relocation)",
+        PrimaryStack: []string{"Go 1.23+", "SQLite3", "PostgreSQL", "Vue.js 3", "Vanilla JS (ES6+)", "Docker"},
+        SystemsStack: []string{"Rust (Tokio, Clap)", "C (POSIX, pthreads)", "Linux / Debian", "Bash Scripting"},
+        CoreFocus:    []string{"Clean Architecture", "REST & WebSockets", "Unix Internals & IPC", "Concurrency"},
     }
 }
 ```
 
 ---
 
-## 🛠️ Technical Skills & Tooling
+## 🧰 Developer Toolbox & Technical Stack
 
 <div align="center">
 
+<!-- Theme-Adaptive Skillicons Strip -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=light" />
-  <img src="https://skillicons.dev/icons?i=go,rust,c,java,js,postgres,sqlite,mysql,mongodb,linux,bash,docker,git,github,vue,react,nextjs,html,css&perline=10&theme=dark" alt="Tech Stack Icons" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,ts,py,bash,postgres,sqlite,mysql,mongodb,supabase,vue,react,nextjs,tailwind,html,css,linux,debian,docker,git,github,vscode,neovim,vim,postman,maven,netlify&perline=10&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,rust,c,java,js,ts,py,bash,postgres,sqlite,mysql,mongodb,supabase,vue,react,nextjs,tailwind,html,css,linux,debian,docker,git,github,vscode,neovim,vim,postman,maven,netlify&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,rust,c,java,js,ts,py,bash,postgres,sqlite,mysql,mongodb,supabase,vue,react,nextjs,tailwind,html,css,linux,debian,docker,git,github,vscode,neovim,vim,postman,maven,netlify&perline=10&theme=dark" alt="Complete Developer Toolbox" />
 </picture>
 
 </div>
 
 <br/>
 
-| Category | Technologies & Visual Badges | Applied Engineering Capabilities |
-| :--- | :--- | :--- |
-| **Core Languages** | ![Go](https://img.shields.io/badge/Go_%28Primary%29-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | • **Go**: HTTP servers (`net/http`), `gorilla/websocket`, goroutines, channels, `golang-migrate`, Swagger/OpenAPI.<br/>• **Rust**: Process control, async I/O (`tokio`), CLI parsing (`clap`), memory safety without GC.<br/>• **C**: Manual memory lifecycle (`malloc`/`free`), pointers, POSIX threads (`pthread`), system calls. |
-| **Backend & Real-Time** | ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Auth](https://img.shields.io/badge/Session_%26_Auth-4B5563?style=flat-square&logo=letsencrypt&logoColor=white) | • **Architecture**: Clean layered design separating HTTP handlers, domain services, and data repositories.<br/>• **Real-Time**: Bi-directional WebSocket hubs, 1-to-1 & group chat, online presence detection, raw TCP chat.<br/>• **Security**: Cookie-based sessions, UUID tokens, `bcrypt` hashing (`golang.org/x/crypto`), RBAC & privacy rules. |
-| **Databases & Storage** | ![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | • **Relational Design**: Normalized schemas, versioned SQL migrations (`golang-migrate`), foreign key constraints, indexing, and atomic transactions.<br/>• **NoSQL**: Document modeling and collection queries with MongoDB. |
-| **Systems & Linux** | ![Linux](https://img.shields.io/badge/Linux_%2F_Debian-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX_IPC-24292E?style=flat-square&logo=gnu&logoColor=white) ![Hardening](https://img.shields.io/badge/SSH_%26_UFW-D70A53?style=flat-square&logo=debian&logoColor=white) | • **Unix Internals**: Process spawning (`fork`, `execve`, `waitpid`), anonymous pipes (`pipe`), FD redirection (`dup2`), POSIX signals.<br/>• **SysAdmin**: Debian server hardening, LVM partitioning, SSH security, UFW firewall, `cron` telemetry scripts. |
-| **Frontend & Web** | ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React_%28Basics%29-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js_%28Basics%29-000000?style=flat-square&logo=nextdotjs&logoColor=white) | • **SPA Engineering**: Vue 3 (`vue-router`, `vuex`) and frameworkless Vanilla JS SPAs with dynamic DOM rendering.<br/>• **Integration**: WebSocket client state sync, GraphQL query dashboards, responsive layouts. |
-| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white) ![Make](https://img.shields.io/badge/GNU_Make-6D00CC?style=flat-square&logo=gnu&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | • **Containerization**: Multi-container `Dockerfile` & `docker-compose.yml` orchestration for backend/frontend services.<br/>• **Workflows**: Git branching, Makefile build automation, Valgrind memory auditing, CI fundamentals. |
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>⚙️ Core & Systems Languages</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="42" height="42" title="Go (Primary Language)" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" width="40" height="40" title="Rust" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C (ISO C99)" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java 17+" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript (ES6+)" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python (Scripting)" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash Shell" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go_1.23+_%28Primary%29-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Rust_2024-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+        <img src="https://img.shields.io/badge/C99_%2F_POSIX-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JS_%2F_TS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS/TS" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🔌 Backend, APIs & Real-Time</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go Backend" width="40" height="40" title="Go net/http & Gorilla WebSocket" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" title="Swagger / OpenAPI" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+        <img src="https://img.shields.io/badge/Gorilla_WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+        <img src="https://img.shields.io/badge/Raw_TCP_Sockets-24292E?style=flat-square&logo=gnu&logoColor=white" alt="TCP" />
+        <img src="https://img.shields.io/badge/Session_%26_Bcrypt_Auth-10B981?style=flat-square&logo=letsencrypt&logoColor=white" alt="Auth" />
+        <img src="https://img.shields.io/badge/Tokio_Async_%26_Clap-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Tokio" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🗄️ Databases & Storage</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" title="SQLite3" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" title="MariaDB" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" title="Supabase" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MariaDB_%2F_MySQL-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/golang--migrate-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Migrate" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🐧 Linux, Systems & Low-Level</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux Kernel & Userspace" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="40" height="40" title="Debian GNU/Linux" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40" title="GCC Compiler" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="Make / CMake" width="40" height="40" title="Make & CMake" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/POSIX_Threads_%28pthreads%29-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="pthreads" />
+        <img src="https://img.shields.io/badge/Unix_IPC_%28pipe_%2F_dup2%29-FCC624?style=flat-square&logo=linux&logoColor=black" alt="IPC" />
+        <img src="https://img.shields.io/badge/Valgrind_Profiling-6D00CC?style=flat-square&logo=gnu&logoColor=white" alt="Valgrind" />
+        <img src="https://img.shields.io/badge/SSH_%26_UFW_Hardening-D70A53?style=flat-square&logo=debian&logoColor=white" alt="Hardening" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🎨 Frontend & Web UI</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" title="Vue.js 3 & Vuex" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" title="React (Basics)" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js (Basics)" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue_3_%2B_Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Vanilla_JS_SPA-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/React_%26_Next.js_%28Basics%29-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React/Next" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🛠️ DevOps, IDEs & Toolbox</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker & Docker Compose" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" title="Neovim" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim" width="40" height="40" title="Vim" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="40" height="40" title="Apache Maven" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" title="Netlify" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git_%26_GitHub_CLI-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GNU_Make-6D00CC?style=flat-square&logo=gnu&logoColor=white" alt="Make" />
+        <img src="https://img.shields.io/badge/Postman_%26_Swagger-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ Engineering Architecture & Workflow
+
+```mermaid
+flowchart LR
+    subgraph Client["🖥️ Client Layer"]
+        SPA["Vue.js 3 / Vanilla JS SPA"]
+        CLI["Unix CLI / TCP Client"]
+    end
+
+    subgraph Backend["⚙️ Go & Rust Backend Core"]
+        Router["REST Router & Auth Middleware\n(Sessions, UUID, Bcrypt)"]
+        WSHub["Real-Time Hub\n(Gorilla WebSocket / Raw TCP)"]
+        Service["Domain Services & Concurrency\n(Goroutines, Channels, Mutexes)"]
+    end
+
+    subgraph Data["🗄️ Persistence & OS Kernel"]
+        DB[("SQLite3 / PostgreSQL\n(golang-migrate)")]
+        POSIX["POSIX Kernel & IPC\n(fork, execve, pipe, dup2)"]
+    end
+
+    SPA <-->|"HTTP/1.1 JSON"| Router
+    SPA <-->|"Full-Duplex WS"| WSHub
+    CLI <-->|"TCP / Stdin"| WSHub
+    Router --> Service
+    WSHub --> Service
+    Service --> DB
+    Service --> POSIX
+```
 
 ---
 
@@ -98,6 +245,7 @@ func NewProfile() Engineer {
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Vue.js_3_%2B_Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Gorilla_WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/golang--migrate-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Migrate" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Status-Completed_%28Zone01%29-10B981?style=flat-square" alt="Completed" />
 </p>
@@ -183,26 +331,31 @@ All 42 Network curriculum repositories below are **publicly accessible** on my G
 
 ## 🔄 Active & In-Progress Explorations
 
-To keep project status transparent, the following repositories are currently **under active development**:
-
 - 🏗️ **`01Blog`** (`Java`, `Spring Boot`, `Angular`) — Full-stack blogging and content platform exploring Spring Security, JWT authentication, RESTful service layers, user follows, notifications, and content moderation.
 - 🌐 **`Local Server`** (`Java`) — Custom HTTP/1.1 server implementation exploring non-blocking I/O (`java.nio`), raw socket lifecycle management, custom routing tables, session handling, and multipart file uploads.
 - 🚦 **Traffic Simulation Systems (`road_intersection` in Rust & `JrafficV2` in Java 17)** — Real-time cross-intersection traffic simulators built with Rust (`macroquad`) and JavaFX, modeling lane queues, traffic light state machines, and vehicle collision avoidance.
+- 📊 **GraphQL Analytics Dashboard (`graphql`)** — Interactive developer telemetry dashboard querying Zone01's GraphQL API with JWT authentication and dynamic SVG data visualizations.
 
 ---
 
-## 🔬 Systems Programming & Engineering Foundations
+## 📈 GitHub Activity & Analytics
 
-What differentiates my profile as a full-stack developer is a ground-up understanding of systems behavior:
+<div align="center">
 
-- **Memory & Resource Discipline:** Writing C code without garbage collection taught me explicit ownership, pointer arithmetic, buffer boundary discipline, and Valgrind memory profiling—habits I carry directly into Go and Rust.
-- **Concurrency & Synchronization:** Practical experience preventing race conditions and deadlocks across both low-level POSIX threads/mutexes in C (`Philosophers`) and high-level Communicating Sequential Processes (CSP) via Goroutines and Channels in Go.
-- **Operating System Internals:** Hands-on implementation of command parsers, AST execution pipelines, file descriptor tables, POSIX signal handlers, and process trees (`0-Shell`, `Minishell`, `Pipex`).
-- **Linux Administration & Containerization:** Daily Linux user comfortable configuring Debian servers, writing Bash automation scripts, hardening SSH/UFW network layers, and orchestrating services with Docker Compose.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shifuuu31&theme=tokyonight" alt="GitHub Profile Summary" height="185" />
+  <img src="https://streak-stats.demolab.com?user=shifuuu31&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="185" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifuuu31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</p>
+
+</div>
 
 ---
 
-## 📫 Contact & Links
+## 📫 Connect With Me
 
 I am actively seeking **Internships and Junior Software Engineering roles (Backend / Full-Stack)** — open to **Remote** and **Relocation** opportunities.
 
